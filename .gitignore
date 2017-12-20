@@ -1,0 +1,5 @@
+plan
+.terraform
+node_modules
+lambda.zip
+terraform.tfstate*
