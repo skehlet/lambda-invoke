@@ -2,7 +2,7 @@
 // const https = require('https');
 const axios = require('axios');
 const Promise = require('bluebird');
-const querystring = require('querystring');
+// const querystring = require('querystring');
 
 exports.handler = function(event, context, callback) {
     console.log('event:', JSON.stringify(event, null, 4));
